@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">odoroid</string>
+    <string name="error_odoo_server_error">error odoo server</string>
+</resources>

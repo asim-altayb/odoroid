@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="wedo.asim.odoroid.test" >
+4
+5    <uses-sdk
+5-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:11:5-15:72
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:11:22-76
+11        android:functionalTest="false"
+11-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:13:22-53
+13        android:label="Tests for wedo.asim.odoroid.test"
+13-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:15:22-70
+14        android:targetPackage="wedo.asim.odoroid.test" />
+14-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:12:22-68
+15
+16    <uses-permission android:name="android.permission.REORDER_TASKS" />
+16-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:24:5-72
+16-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:24:22-69
+17
+18    <application
+18-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:7:5-9:19
+19        android:allowBackup="true"
+19-->[__tested_artifact__::app] /home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.0.1] /home/asim/.gradle/caches/transforms-2/files-2.1/746468907eb2a139d0cb5bdf159d533f/core-1.0.1/AndroidManifest.xml:22:18-86
+21        android:debuggable="true"
+21-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:7:18-43
+22        android:icon="@mipmap/ic_launcher"
+22-->[__tested_artifact__::app] /home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-43
+23        android:label="@string/app_name"
+23-->[__tested_artifact__::app] /home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->[__tested_artifact__::app] /home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-54
+25        android:supportsRtl="true"
+25-->[__tested_artifact__::app] /home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-35
+26        android:theme="@style/AppTheme" >
+26-->[__tested_artifact__::app] /home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-40
+27        <uses-library android:name="android.test.runner" />
+27-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:8:9-60
+27-->/home/asim/AndroidStudioProjects/odoroid/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3274207694741875260.xml:8:23-57
+28
+29        <activity
+29-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:27:9-33:20
+30            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+30-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:28:13-99
+31            android:theme="@style/InstrumentationActivityInvokerBootstrapActivityTheme" >
+31-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:29:13-88
+32            <intent-filter>
+32-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:30:13-32:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:31:17-69
+33-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:31:25-66
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:34:9-40:20
+37            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+37-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:35:13-95
+38            android:theme="@style/InstrumentationActivityInvokerEmptyActivityTheme" >
+38-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:36:13-84
+39            <intent-filter>
+39-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:30:13-32:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:31:17-69
+40-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:31:25-66
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:41:9-47:20
+44            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+44-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:42:13-103
+45            android:theme="@style/InstrumentationActivityInvokerFloatingActivityTheme" >
+45-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:43:13-87
+46            <intent-filter>
+46-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:30:13-32:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:31:17-69
+47-->[androidx.test:core:1.1.0] /home/asim/.gradle/caches/transforms-2/files-2.1/dab47a36ba5aefbcf746f8107a296bf4/core-1.1.0/AndroidManifest.xml:31:25-66
+48            </intent-filter>
+49        </activity>
+50    </application>
+51
+52</manifest>

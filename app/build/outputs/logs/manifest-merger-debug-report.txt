@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:2:1-13:12
+		INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:2:1-13:12
+		INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:5:5-11:55
+	android:supportsRtl
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml:11:9-40
+uses-sdk
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asim/AndroidStudioProjects/odoroid/app/src/main/AndroidManifest.xml
